@@ -1,0 +1,7 @@
+.media-grid .media-list-item .media-image-wrapper .media-board-info .profile-picture img {
+    margin: 5px 0;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    box-shadow: 0 0 0 5px rgba(221, 255, 0, 0.65);
+}
